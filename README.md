@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there my guy👋
 
 <!--
 **Giorgios-Kampouropoulos/Giorgios-Kampouropoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
