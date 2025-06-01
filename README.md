@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my thesis project in Python: **Predictive Maintenance and Sampling with GANs**
 
-- 🌱 I’m currently learning **MITx Probabilities & Advanced Finite Element Analysis**
+- 🌱 I’m currently learning **MITx Probabilities** & **Advanced Finite Element Analysis**
 
 - 👯 I’m looking to collaborate on [Kaggle competitions](https://www.kaggle.com/)
 
