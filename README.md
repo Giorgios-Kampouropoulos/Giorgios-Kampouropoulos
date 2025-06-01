@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giorgios-kampouropoulos" alt="giorgios-kampouropoulos" /></a> </p>
 
-- 🔭 I’m currently working on **Predictive Maintenance and Sampling with GANs**
+- 🔭 I’m currently working on my thesis project in Python: **Predictive Maintenance and Sampling with GANs**
 
 - 🌱 I’m currently learning **MITx Probabilities & Advanced Finite Element Analysis**
 
