@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giorgios-kampouropoulos" alt="giorgios-kampouropoulos" /></a> </p>
 
-- 🔭 I’m currently working on **Project 4: Collaborative Filtering via Gaussian Mixtures**
+- 🔭 I’m currently working on **Predictive Maintenance and Sampling with GANs**
 
-- 🌱 I’m currently learning **MITx Machine Learning with Python**
+- 🌱 I’m currently learning **MITx Probabilities & Advanced Finite Element Analysis**
 
 - 👯 I’m looking to collaborate on [Kaggle competitions](https://www.kaggle.com/)
 
